@@ -25,8 +25,8 @@ Calculator made in assembly language using concepts of COAL (Computer Organizati
 ![some discription](https://drive.google.com/viewerng/viewer?embedded=true&url=http://infolab.stanford.edu/pub/papers/google.pdf "some discription")
 
 <image src="Project_Report.pdf"/>
-<image src="/Project_Report.pdf"/>
-<image src="./Project_Report.pdf"/>
-<image src=".Project_Report.pdf"/>
 
-<div class="pdf-container" data-file="Project_Report.pdf" data-bcmap-dir="//viewscreen.githubusercontent.com/static/pdf" data-pdf-worker-js-path="/static/assets/pdf.worker-54b81a9329bebf31b625.js"><canvas class="pdf-page" data-page="0" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="1" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="2" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="3" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="4" height="2588" width="2000"></canvas></div>
+
+<iframe class="render-viewer " src="https://viewscreen.githubusercontent.com/view/pdf?browser=chrome&amp;color_mode=auto&amp;commit=92ecd84e2a28d09c52ad4015e4470d1afcd3047b&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7568616d6d61642d6d6f6265656e2f436f616c63756c61746f722f393265636438346532613238643039633532616434303135653434373064316166636433303437622f50726f6a6563745f5265706f72742e706466&amp;logged_in=true&amp;nwo=muhammad-mobeen%2FCoalculator&amp;path=Project_Report.pdf&amp;platform=windows&amp;repository_id=544357402&amp;repository_type=Repository&amp;version=106#10c96992-a8c8-4466-a2d5-d9af2da93a81" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display" name="10c96992-a8c8-4466-a2d5-d9af2da93a81">
+          Viewer requires iframe.
+      </iframe>
