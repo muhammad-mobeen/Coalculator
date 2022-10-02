@@ -9,11 +9,11 @@ Calculator made in assembly language using concepts of COAL (Computer Organizati
     width="100%"
 ></iframe>
 
-<object data="Project_Report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="Project_Report.pdf">
+<object data="https://drive.google.com/viewerng/viewer?embedded=true&url=http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&scrollbar=0" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&scrollbar=0">
         <p>
             This browser does not support PDFs. Please download the PDF to view it: 
-            <a href="Project_Report.pdf">Download PDF</a>.
+            <a href="https://drive.google.com/viewerng/viewer?embedded=true&url=http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&scrollbar=0">Download PDF</a>.
         </p>
     </embed>
 </object>
