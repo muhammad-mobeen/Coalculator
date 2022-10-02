@@ -28,3 +28,5 @@ Calculator made in assembly language using concepts of COAL (Computer Organizati
 <image src="/Project_Report.pdf"/>
 <image src="./Project_Report.pdf"/>
 <image src=".Project_Report.pdf"/>
+
+<div class="pdf-container" data-file="https://raw.githubusercontent.com/muhammad-mobeen/Coalculator/53aeb595e9dfe202c569a7ae466116c3bd7d2a08/Project_Report.pdf" data-bcmap-dir="//viewscreen.githubusercontent.com/static/pdf" data-pdf-worker-js-path="/static/assets/pdf.worker-54b81a9329bebf31b625.js"><canvas class="pdf-page" data-page="0" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="1" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="2" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="3" height="2588" width="2000"></canvas><canvas class="pdf-page" data-page="4" height="2588" width="2000"></canvas></div>
