@@ -23,3 +23,5 @@ Calculator made in assembly language using concepts of COAL (Computer Organizati
 </object>
 
 ![some discription](https://drive.google.com/viewerng/viewer?embedded=true&url=http://infolab.stanford.edu/pub/papers/google.pdf "some discription")
+
+<image src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://infolab.stanford.edu/pub/papers/google.pdf"/>
